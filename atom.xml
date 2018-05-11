@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Robot.G</title>
+  
+  <subtitle>我在这个世界存在过</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-05-11T11:03:46.769Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>关正伟Davy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>只有我不存在的世界</title>
+    <link href="http://yoursite.com/%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C.html"/>
+    <id>http://yoursite.com/只有我不存在的世界.html</id>
+    <published>2018-05-10T12:37:38.000Z</published>
+    <updated>2018-05-11T11:03:46.769Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;人最重要是找到属于自己的世界，只要找到属于自己的世界，人生才有意义!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/UNADJUSTEDNONRAW_thumb_ff.jpg&quot; alt=&quot;乡村&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+      <category term="world" scheme="http://yoursite.com/tags/world/"/>
+    
+      <category term="haha" scheme="http://yoursite.com/tags/haha/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/hello-world.html"/>
+    <id>http://yoursite.com/hello-world.html</id>
+    <published>2018-05-10T11:51:25.642Z</published>
+    <updated>2018-05-11T10:57:17.612Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
