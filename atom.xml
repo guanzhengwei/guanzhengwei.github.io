@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-12T03:02:27.316Z</updated>
+  <updated>2018-05-12T15:17:08.461Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>找工作</title>
+    <link href="http://yoursite.com/%E6%89%BE%E5%B7%A5%E4%BD%9C.html"/>
+    <id>http://yoursite.com/找工作.html</id>
+    <published>2018-05-12T13:52:33.000Z</published>
+    <updated>2018-05-12T15:17:08.461Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>只有我不存在的世界</title>
     <link href="http://yoursite.com/%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C.html"/>
     <id>http://yoursite.com/只有我不存在的世界.html</id>
     <published>2018-05-10T12:37:38.000Z</published>
-    <updated>2018-05-12T03:02:27.316Z</updated>
+    <updated>2018-05-12T13:42:55.762Z</updated>
     
     <summary type="html">
     
@@ -53,7 +69,7 @@
     <link href="http://yoursite.com/hello-world.html"/>
     <id>http://yoursite.com/hello-world.html</id>
     <published>2018-05-10T11:51:25.642Z</published>
-    <updated>2018-05-11T10:57:17.612Z</updated>
+    <updated>2018-05-12T13:49:45.323Z</updated>
     
     <summary type="html">
     
@@ -67,6 +83,8 @@
     
     </summary>
     
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
